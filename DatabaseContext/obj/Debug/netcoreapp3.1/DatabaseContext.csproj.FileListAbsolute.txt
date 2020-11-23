@@ -1,0 +1,9 @@
+C:\Product Catalogue\ProductCatalogue\DatabaseContext\bin\Debug\netcoreapp3.1\DatabaseContext.deps.json
+C:\Product Catalogue\ProductCatalogue\DatabaseContext\bin\Debug\netcoreapp3.1\DatabaseContext.dll
+C:\Product Catalogue\ProductCatalogue\DatabaseContext\bin\Debug\netcoreapp3.1\DatabaseContext.pdb
+C:\Product Catalogue\ProductCatalogue\DatabaseContext\obj\Debug\netcoreapp3.1\DatabaseContext.AssemblyInfoInputs.cache
+C:\Product Catalogue\ProductCatalogue\DatabaseContext\obj\Debug\netcoreapp3.1\DatabaseContext.AssemblyInfo.cs
+C:\Product Catalogue\ProductCatalogue\DatabaseContext\obj\Debug\netcoreapp3.1\DatabaseContext.csproj.CoreCompileInputs.cache
+C:\Product Catalogue\ProductCatalogue\DatabaseContext\obj\Debug\netcoreapp3.1\DatabaseContext.dll
+C:\Product Catalogue\ProductCatalogue\DatabaseContext\obj\Debug\netcoreapp3.1\DatabaseContext.pdb
+C:\Product Catalogue\ProductCatalogue\DatabaseContext\obj\Debug\netcoreapp3.1\DatabaseContext.csprojAssemblyReference.cache
